@@ -74,7 +74,7 @@ which will be accompanied by a hands-on demo during the workshop.
 Submitted papers can be **up to 12 or 6 pages** excluding appendices and references, and should
 provide enough details to **enable reproducibility**. All submitted papers must be anonymous, with no author names, affiliations, acknowledgements, or obvious references, for **double blind reviews**. Submissions must use the ACM SIG Proceedings
 Templates (see <a href="https://www.acm.org/publications/proceedings-template" target="_blank">https://www.acm.org/publications/proceedings-template</a>, with a simpler version here:
-<a href="https://github.com/acmccs/format" target="_blank">https://github.com/acmccs/format</a>.
+<a href="https://github.com/acmccs/format" target="_blank">https://github.com/acmccs/format</a>).
 Only PDF files will be accepted.
 
 Accepted papers will be published by the ACM Press and/or the ACM Digital Library. We expect all authors to consider diversity and inclusion,
@@ -85,10 +85,10 @@ author. Submissions not meeting these guidelines risk immediate rejection. For q
 about these policies, please contact the chairs.
 
 
-<!--
-**Paper Submission Site:**
+
+**Paper Submission Site: TBA**
 *<forthcoming>*
--->
+
 
 <!--
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
