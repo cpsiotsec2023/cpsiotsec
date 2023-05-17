@@ -87,7 +87,6 @@ about these policies, please contact the chairs.
 
 
 * **Paper Submission Site: TBA**
-*<forthcoming>*
 
 
 <!--
