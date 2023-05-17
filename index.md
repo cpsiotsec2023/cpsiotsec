@@ -86,7 +86,7 @@ about these policies, please contact the chairs.
 
 
 
-**Paper Submission Site: TBA**
+**Paper Submission Site: TBA*
 *<forthcoming>*
 
 
@@ -97,7 +97,7 @@ about these policies, please contact the chairs.
 - Submission deadline: June 29, 2023 (23:59 Anywhere on Earth)
 - Notification of acceptance/rejection (tentative): August 10, 2023
 - Deadline for submission of camera-ready papers: September 8, 2023
-
+- Workshop date:  November 26, 2023
 
 ## Program Chairs
 * Magnus Almgren, Chalmers University of Technology, Sweden
