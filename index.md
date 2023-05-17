@@ -4,7 +4,7 @@ layout: default_2023
 
 <!-- <br /> -->
 
-![](https://commons.wikimedia.org/wiki/File:Canal_waterfront_by_night,_Vesterbro,_Copenhagen,_Denmark_(PPL1-Corrected)_julesvernex2.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg/800px-Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg?20211029182715)
 
 
 
