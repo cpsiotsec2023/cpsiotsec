@@ -103,41 +103,39 @@ about these policies, please contact the chairs.
 * Earlence Fernandes, University of California, San Diego, USA
 
 ## Technical Program Committee
-* TBD
-
-<!--
-Magnus Almgren, Chalmers University, Sweden
-* Rakesh Bobba, Oregon State University, USA
-* Gedare Bloom, University of Colorado Colorado Springs, USA
-* Alvaro Cardenas, UC Santa Cruz, USA
-* Mauro Conti, University of Padua, Italy
-* Yongkai Fan, Communication University of China, China
-* Vasileios Gkioulos, Norwegian University of Science and Technology, Norway
-* Dawu Gu, Shanghai Jiao Tong University, China
-* Le Guan, University of Georgia, USA
-* Gerhard Hancke, City University of Hong Kong
-* Monowar Hasan, Wichita State University, USA
-* Sokratis Katsikas, Open University of Cyprus, Cyprus
-* Charalambos Konstantinou, KAUST, Saudi Arabia
-* Marina Krotofil, Honeywell Industrial Cyber Security Lab, USA
-* Peng Liu, Pennsylvania State University, USA
-* Xiaofeng Lu, Beijing University of Posts and Telecommunications, China
-* Emil Lupu, Imperial College, UK
-* Weizhi Meng, Technical Universtiy of Denmark, Denmark
-* Sibin Mohan, University of Illinois at Urbana-Champaign, USA
-* Awais Rashid, University of Bristol, UK
-* George Stergiopoulos, University of the Aegean, Greece
-* Habeeb Olufowobi, Howard University, USA
-* Gang Tan, Pennsylvania State University, USA
-* Nils Ole Tippenhauer, CISPA Helmholtz Center for Information Security, Germany
-* Nektarios Georgios Tsoutsos, University of Delaware, USA
-* Avishai Wool, Tel Aviv University, Israel
-* Min Yang, Fudan Fudan University
-* Stefano Zanero, Politecnico di Milano, Italy China
-* Yuqing Zhang, University of CAS
-* Jianying Zhou, Singapore University of Technology and Design, Singapore
--->
-<!-- * Saman Zonouz, Rutgers University, USA -->
+* Alessandro Brighente	University of Padua	
+* Alfred Chen University of California, Irvine	
+* Álvaro Cárdenas	UC Santa Cruz	
+* Amir Rahmati	Stony Brook University		
+* Awais Rashid	University of Bristol	
+* Charalambos Konstantinou	KAUST	
+* Cristina Alcaraz	University of Malaga
+* Ebelechukwu Nwafor	Villanova	
+* Emil Lupu	Imperial College London
+* Gang Tan	Penn State	
+* George Stergiopoulos	University of the Aegean
+* Gerhard Hancke	City University of Hong Kong
+* Habiba Farrukh	Purdue University
+* Herve Debar	Telecom SudParis
+* Le Guan	University of Georgia
+* Marina Krotofil Hamburg University of Technology
+* Luis Garcia	University of Southern California, Information Sciences Institute
+* Mauro Conti	University of Padua
+* Monowar Hasan	Washington State University
+* Muslum Ozgur Ozmen	Purdue University
+* Nils Ole Tippenhauer	CISPA Helmholtz Center for Information Security
+* Pablo Picazo	Halmstad University
+* Peng Liu	The Pennsylvania State University
+* Saman Zonouz	Georgia Institute of Technology	
+* Sara Rampazzi	University of Florida
+* Shahid Raza RISE Research Institutes of Sweden
+* Sokratis Katsikas	Norwegian University of Science & Technology	
+* Sridhar Adepu	University of Bristol
+* Stefano Longari	Politecnico di Milano
+* Vasileios Gkioulos	Norwegian University of Science and Technology	
+* Weizhi Meng	Technical University of Denmark	
+* Yongkai Fan	State Key Laboratory of Media Convergence and Communication, China University of Communication
+* Yuqing Zhang	National Computer Network Intrusion Protection Center, University of Chinese Academy of Sciences
 
 
 
