@@ -86,7 +86,7 @@ about these policies, please contact the chairs.
 
 
 
-* **Paper Submission Site: TBA**
+* **Paper Submission Site: <a href="https://cpsiotsec23.hotcrp.com/" target="_blank">https://cpsiotsec23.hotcrp.com/</a>**
 
 
 <!--
