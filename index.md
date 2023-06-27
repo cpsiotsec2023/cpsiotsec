@@ -11,7 +11,7 @@ layout: default_2023
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">The 4th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
+	font-weight: normal;font-size: 30px;">The 5th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
 
 
 
@@ -93,7 +93,7 @@ about these policies, please contact the chairs.
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: June 29, 2023 (23:59 Anywhere on Earth)
+- Submission deadline: <s>June 29, 2023 (23:59 Anywhere on Earth)</s> July 13, AoE
 - Notification of acceptance/rejection (tentative): August 10, 2023
 - Deadline for submission of camera-ready papers: September 8, 2023
 - Workshop date:  November 26, 2023
@@ -116,10 +116,11 @@ about these policies, please contact the chairs.
 * George Stergiopoulos	University of the Aegean
 * Gerhard Hancke	City University of Hong Kong
 * Habiba Farrukh	Purdue University
-* Herve Debar	Telecom SudParis
+* Hervé Debar	Telecom SudParis
 * Le Guan	University of Georgia
-* Marina Krotofil Hamburg University of Technology
 * Luis Garcia	University of Southern California, Information Sciences Institute
+* Marina Krotofil Hamburg University of Technology
+* Marios Anagnostopoulos Aalborg University
 * Mauro Conti	University of Padua
 * Mikael Asplund Linköping University
 * Monowar Hasan	Washington State University
@@ -128,7 +129,6 @@ about these policies, please contact the chairs.
 * Pablo Picazo	Halmstad University
 * Peng Liu	The Pennsylvania State University
 * Saman Zonouz	Georgia Institute of Technology	
-* Sara Rampazzi	University of Florida
 * Shahid Raza RISE Research Institutes of Sweden
 * Sokratis Katsikas	Norwegian University of Science & Technology	
 * Sridhar Adepu	University of Bristol
