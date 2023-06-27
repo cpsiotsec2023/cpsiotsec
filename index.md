@@ -121,6 +121,7 @@ about these policies, please contact the chairs.
 * Marina Krotofil Hamburg University of Technology
 * Luis Garcia	University of Southern California, Information Sciences Institute
 * Mauro Conti	University of Padua
+* Mikael Asplund Linköping University
 * Monowar Hasan	Washington State University
 * Muslum Ozgur Ozmen	Purdue University
 * Nils Ole Tippenhauer	CISPA Helmholtz Center for Information Security
