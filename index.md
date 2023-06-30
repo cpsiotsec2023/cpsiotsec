@@ -104,7 +104,6 @@ about these policies, please contact the chairs.
 
 ## Technical Program Committee
 * Alessandro Brighente	University of Padua	
-* Alfred Chen University of California, Irvine	
 * Álvaro Cárdenas	UC Santa Cruz	
 * Amir Rahmati	Stony Brook University		
 * Awais Rashid	University of Bristol	
@@ -133,6 +132,7 @@ about these policies, please contact the chairs.
 * Sokratis Katsikas	Norwegian University of Science & Technology	
 * Sridhar Adepu	University of Bristol
 * Stefano Longari	Politecnico di Milano
+* Takami Sato University of California Irvine
 * Vasileios Gkioulos	Norwegian University of Science and Technology	
 * Weizhi Meng	Technical University of Denmark	
 * Yongkai Fan	State Key Laboratory of Media Convergence and Communication, China University of Communication
