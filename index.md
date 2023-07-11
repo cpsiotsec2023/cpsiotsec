@@ -93,7 +93,7 @@ about these policies, please contact the chairs.
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: <s>June 29, 2023 (23:59 Anywhere on Earth)</s> July 13, AoE
+- Submission deadline: <s>June 29, 2023 (23:59 Anywhere on Earth)</s> <s>July 13, AoE</s> July, 18 AoE (firm)
 - Notification of acceptance/rejection (tentative): August 10, 2023
 - Deadline for submission of camera-ready papers: September 8, 2023
 - Workshop date:  November 26, 2023
