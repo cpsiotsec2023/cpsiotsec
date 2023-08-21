@@ -94,7 +94,7 @@ about these policies, please contact the chairs.
 
 ## Important Dates
 - Submission deadline: <s>June 29, 2023 (23:59 Anywhere on Earth)</s> <s>July 13, AoE</s> July, 18 AoE (firm)
-- Notification of acceptance/rejection (tentative): August 10, 2023
+- Notification of acceptance/rejection (tentative): August 18, 2023
 - Deadline for submission of camera-ready papers: September 8, 2023
 - Workshop date:  November 26, 2023
 
