@@ -125,7 +125,7 @@ about these policies, please contact the chairs.
 * Monowar Hasan	Washington State University
 * Muslum Ozgur Ozmen	Purdue University
 * Nils Ole Tippenhauer	CISPA Helmholtz Center for Information Security
-* Pablo Picazo	Halmstad University
+* Pablo Picazo-Sanchez	Halmstad University
 * Peng Liu	The Pennsylvania State University
 * Saman Zonouz	Georgia Institute of Technology	
 * Shahid Raza RISE Research Institutes of Sweden
@@ -155,7 +155,7 @@ about these policies, please contact the chairs.
 * Yuqing Zhang, University of CAS
 
 ## Publicity Chair
-* Pablo Picazo-Sanchez, Halmstad University, Sweden
+* Pablo Picazo-Sanchez, Halmstad University
 
 
 ## Past Workshop
