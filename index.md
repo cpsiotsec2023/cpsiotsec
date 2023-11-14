@@ -57,8 +57,8 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 **There will be a best paper award.**
 
 
-**Program**
-[]({{ site.url }}/figs/schedule.png)
+## Program
+![]({{ site.url }}/figs/schedule.png)
 
 
 ## Submission Guidelines
