@@ -58,7 +58,127 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 
 
 ## Program
-![]({{ site.url }}/figs/schedule.png)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">9:00 - 9:15</th>
+    <th class="tg-0pky" colspan="2">Opening Remarks (Magnus Almgren)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">9:15 - 10:00</td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 1: Security and privacy challenges for next generation communication and computational infrastructures and applications, </span><br><span style="font-weight:400;font-style:normal">Maria Kihl (Lund University, Sweden)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:00 - 10:30</td>
+    <td class="tg-0pky" colspan="2">Break</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10:30 - 12:20</td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Session 1: Assessment and Mitigation Strategies</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-f8tv">(full paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Firmulti Fuzzer: Discovering Multi-process Vulnerabilities in IoT Devices with Full System Emulation and VMI</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(full paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Water Risk-Proofed: Risk Assessment in Water Desalination</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(full paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Remote Attestation of IoT Devices using Physically Unclonable Functions: Recent Advancements and Open Research Challenges</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(demo)</td>
+    <td class="tg-0lax">From DDoSim to DDoSimQ: Enhancing DDoS Attack Simulation Through Full System Emulation</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">12:20 - 13:30</td>
+    <td class="tg-0lax" colspan="2">Lunch Break</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">13:30 - 15:30</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 2: Adversarial Exploitation and Compiler Insights in Real-World Systems</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(full paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Towards Adversarial Process Control on Inertial Sensor Systems with Physical Feedback Side Channels</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(full paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(short paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">The Internet of Insecure Cows - A security analysis of wireless smart devices used for dairy farming</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(short paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">SweetCam: an IP Camera Honeypot</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(short paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Towards PLC-specific Binary Analysis Tools: An Investigation of Codesys-compiled PLC Software Applications</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">15:30 - 16:00</td>
+    <td class="tg-0lax" colspan="2">Break</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:00 - 16:45</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 2: IoT and Web, Friend or Foe? Security and Privacy of Internet of Things Apps, Musard Balliu (KTH, Sweden)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:45 - 16:50</td>
+    <td class="tg-0lax" colspan="2">Short Break</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">16:50 - 17:30</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 3: Device Identification and Anonymization</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(short paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Granular IoT Device Identification Using TF-IDF and Cosine Similarity</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-8zwo">(short paper)</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Privacy through Diffusion: A White-listing Approach to Sensor Data Anonymization</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17:30 - 17:45</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Finish best paper voting process</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">17:45 - 18:00</td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Best paper announcement, Closing Remarks (Magnus Almgren)</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 
 ## Submission Guidelines
