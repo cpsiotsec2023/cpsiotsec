@@ -58,6 +58,11 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 
 
 ## Program
+
+* Short paper: 20 minutes
+* Regular paper: 30 minutes
+* Demo/Abstract: 20 minutes
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;
@@ -70,16 +75,14 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 .tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">9:00 - 9:15</th>
-    <th class="tg-0pky" colspan="2">Opening Remarks (Magnus Almgren)</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
+    <td class="tg-0pky">9:00 - 9:15</td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Opening Remarks (Magnus Almgren)</span></td>
+  </tr>
+  <tr>
     <td class="tg-0pky">9:15 - 10:00</td>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 1: Security and privacy challenges for next generation communication and computational infrastructures and applications, </span><br><span style="font-weight:400;font-style:normal">Maria Kihl (Lund University, Sweden)</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Keynote 1: Security and privacy challenges for next generation communication and computational infrastructures and applications, Maria Kihl (Lund University, Sweden)</span></td>
   </tr>
   <tr>
     <td class="tg-0pky">10:00 - 10:30</td>
