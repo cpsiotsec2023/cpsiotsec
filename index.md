@@ -90,7 +90,7 @@ and those that can set research agendas and priorities in CPS/IoT security and p
   </tr>
   <tr>
     <td class="tg-0pky">10:30 - 12:20</td>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Session 1: Assessment and Mitigation Strategies</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:400;font-style:normal">Session 1: Assessment and Mitigation Strategies. Session Chair: Shahid Raza</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -118,7 +118,7 @@ and those that can set research agendas and priorities in CPS/IoT security and p
   </tr>
   <tr>
     <td class="tg-0lax">13:30 - 15:30</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 2: Adversarial Exploitation and Compiler Insights in Real-World Systems</span><br></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 2: Adversarial Exploitation and Compiler Insights in Real-World Systems. Session Chair: Charalambos Konstantinou</span><br></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
@@ -159,7 +159,7 @@ and those that can set research agendas and priorities in CPS/IoT security and p
   </tr>
   <tr>
     <td class="tg-0lax">16:50 - 17:30</td>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 3: Device Identification and Anonymization</span></td>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:400;font-style:normal">Session 3: Device Identification and Anonymization. Session Chair: Emil C. Lupu</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
