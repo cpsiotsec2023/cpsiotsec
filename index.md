@@ -59,7 +59,7 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 
 ## Program
 
-**Best paper award 2023:** 
+**Best paper award 2023:** <br>
 **Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface
 Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma**
 
