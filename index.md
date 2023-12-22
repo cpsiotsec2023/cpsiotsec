@@ -60,7 +60,8 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 ## Program
 
 **Best paper award 2023:** <br />
-**&emsp;&emsp;&emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface</a> Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma**
+**&emsp;&emsp;&emsp;Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface. Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma**
+&emsp;&emsp;&emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a>
 
 * Short paper: 20 minutes
 * Regular paper: 30 minutes
